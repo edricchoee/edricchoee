@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @edricchoee
-- 👀 I’m interested in Data Analytics
+- 👀 I’m interested in Data Analytics, Mobile Development and Internet of Things
 - 🌱 I’m currently learning Online Courses on Edx
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @edrichocw on LinkedIn !
